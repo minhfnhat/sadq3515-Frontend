@@ -1,0 +1,113 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Discover unparalleled performance and innovation on four wheels. Experience the ultimate destination for auto enthusiasts today.",
+        "title": "Unleash the Drive of Tomorrow"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Discover unparalleled performance and innovation on four wheels. Experience the ultimate destination for auto enthusiasts today.",
+        "title": "Unleash the Drive of Tomorrow"
+      }
+    },
+    {
+      "id": "BannerWithButton"
+    },
+    {
+      "id": "FooterFourColumnWithCompanyMission"
+    },
+    {
+      "id": "FooterFourColumnWithCompanyMission"
+    },
+    {
+      "id": "HeroWithAngledImageOnRight"
+    },
+    {
+      "id": "HeroWithOffsetImage"
+    },
+    {
+      "id": "HeroWithOffsetImage"
+    },
+    {
+      "id": "TestimonialsOffWhiteGrid"
+    },
+    {
+      "id": "HeroWithAngledImageOnRight"
+    },
+    {
+      "id": "TestimonialsGrid"
+    },
+    {
+      "id": "CtaWithAppScreenshot"
+    },
+    {
+      "id": "StatsSimple"
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText"
+    },
+    {
+      "id": "FooterFourColumnWithNewsletterBelow"
+    },
+    {
+      "id": "FooterSocialLinksOnly"
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Discover unparalleled performance and innovation on four wheels. Experience the ultimate destination for auto enthusiasts today.",
+        "title": "Unleash the Drive of Tomorrow"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Discover unparalleled performance and innovation on four wheels. Experience the ultimate destination for auto enthusiasts today.",
+        "title": "Unleash the Drive of Tomorrow"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Discover unparalleled performance and innovation on four wheels. Experience the ultimate destination for auto enthusiasts today.",
+        "title": "Unleash the Drive of Tomorrow"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Discover unparalleled performance and innovation on four wheels. Experience the ultimate destination for auto enthusiasts today.",
+        "title": "Unleash the Drive of Tomorrow"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Discover unparalleled performance and innovation on four wheels. Experience the ultimate destination for auto enthusiasts today.",
+        "title": "Unleash the Drive of Tomorrow"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Discover unparalleled performance and innovation on four wheels. Experience the ultimate destination for auto enthusiasts today.",
+        "title": "Unleash the Drive of Tomorrow"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Discover unparalleled performance and innovation on four wheels. Experience the ultimate destination for auto enthusiasts today.",
+        "title": "Unleash the Drive of Tomorrow"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Unleash the Drive of Tomorrow",
+  "subtitle": "Discover unparalleled performance and innovation on four wheels. Experience the ultimate destination for auto enthusiasts today."
+}
